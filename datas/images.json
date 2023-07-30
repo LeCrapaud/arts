@@ -1,14 +1,19 @@
 [{
-        "urlImg": "NCISFinalPetit.png",
-        "bestQualityURL": "https://github.com/",
+        "urlImg": "https://lh3.googleusercontent.com/pw/AIL4fc_XxixkJKQVCSxCgYIGjTnlwhvv9h0aSNMePAxyfG6soH3m0gsFvzKQGuZobFNZPL0-5tsZyVECZA1yFULQ4k1istrkma4crr4h16YFRsMAgM8oSWD9NV6YyJTs2CAdLPLSulUaTyVWWNZlCgBCilbx=w565-h565-s-no?authuser=0",
+        "bestQualityURL": "",
+        "instagramPost": "https://www.instagram.com/p/CvP0j4xKSAM/",
         "description": "Inside NCIS Headquarters 🕵️‍♂️🔎 Solving mysteries with the best team in town! I didn't have much time to do this scene.",
         "hotspoints": [{
                 "x": 72,
-                "y": 37
+                "y": 37,
+                "title": "Image de Ben Laden",
+                "description": "Osama bin Laden (1957-2011) was a notorious terrorist and the founder of al-Qaeda. He orchestrated the September 11 attacks, changing the world's perception of terrorism. His death in 2011 marked a significant event in the global fight against extremism."
             },
             {
                 "x": 40,
-                "y": 60
+                "y": 60,
+                "title": "Un problème de taille",
+                "description": "The image features a smaller NCIS office, carefully adjusted to fit the scene. Though not perfect, it still captures the essence of the bureau, including its familiar elements and atmosphere. Time constraints led to some compromises, but the spirit of NCIS shines through."
             }
         ]
     },
@@ -18,11 +23,15 @@
         "description": "Inside NCIS Headquarters 🕵️‍♂️🔎 Solving mysteries with the best team in town! I didn't have much time to do this scene.",
         "hotspoints": [{
                 "x": 72,
-                "y": 37
+                "y": 37,
+                "title": "azerty",
+                "description": "1234"
             },
             {
                 "x": 40,
-                "y": 60
+                "y": 60,
+                "title": "wxcvbn",
+                "description": "1234789"
             }
         ]
     }
