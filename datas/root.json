@@ -1,0 +1,8 @@
+{
+    "titleSite": "Artistic3Dmatthew",
+    "socials": [
+        { "title": "Github", "url": "https://github.com/MatthewArt-69/arts", "logo": "logoGitHub.png" },
+        { "title": "Instagram", "url": "https://www.instagram.com/artistic3dmatthew/", "logo": "logoInstagram.png" },
+        { "title": "Instagram", "url": "https://www.artstation.com/artistic3dmatthew", "logo": "logoArtstation.png" }
+    ]
+}
